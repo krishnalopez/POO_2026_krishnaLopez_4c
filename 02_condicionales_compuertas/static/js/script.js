@@ -21,5 +21,5 @@ Si está vacío, muestra: "Error: El nombre no puede estar en blanco".
  */
 function validadorNombres(){
     let nombre = prompt("Ingresa tu nombre");
-    if (nombre == " ") 
+    if (nombre == " ");
 }
